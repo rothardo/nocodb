@@ -1,7 +1,6 @@
 # Google Oauth
 
 <img width="1676" alt="1" src="https://user-images.githubusercontent.com/5435402/133758867-5976b85c-00c6-496f-874e-2a5cf6e0c882.png">
-<img width="579" alt="2" src="https://user-images.githubusercontent.com/5435402/133758880-bd8bf544-4366-4c22-8381-2237a8109424.png">
 <img width="838" alt="3" src="https://user-images.githubusercontent.com/5435402/133758883-bab5ef0b-3b53-46c7-b602-1329f91e3c7f.png">
 <img width="1667" alt="4" src="https://user-images.githubusercontent.com/5435402/133758885-ac057a97-b3e5-480f-bcb8-9d08039a1f7c.png">
 <img width="1208" alt="5" src="https://user-images.githubusercontent.com/5435402/133758888-606a0565-d76a-436d-9300-f0424425589e.png">
